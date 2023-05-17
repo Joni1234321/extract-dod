@@ -1,0 +1,36 @@
+"Exhibit P-5, Cost Analysis: PB 2022 Army",,,,,,,,,,,,,,,,,,,Date: May 2021,,,,,,
+Appropriation / Budget Activity / Budget Sub Activity: 2032A / 02 / 30,,,,,,,,P-1 Line Item Number / Title: 2104C59300 / TOW 2 System Summary,,,,,,,,,,,Item Number / Title [DODIC]: C59403 / TOW Family of Missiles,,,,,,
+"ID Code (A=Service Ready, B=Not Service Ready) :",,,,,,,,,,,,,MDAP/MAIS Code:,,,,,,,,,,,,
+Resource Summary,,,,,,Prior Years,,,,FY 2020,,,,FY 2021,,,FY 2022 Base,,,FY 2022 OCO,,,FY 2022 Total,,
+Procurement Quantity (Units in Each),,,,,,"174,157",,,,"1,460",,,,"1,231",,,887,,,-,,,887,,
+Gross/Weapon System Cost ($ in Millions),,,,,,"3,630.112",,,,127.907,,,,123.474,,,104.412,,,-,,,104.412,,
+Less PY Advance Procurement ($ in Millions),,,,,,207.598,,,,19.949,,,,10.500,,,-,,,-,,,-,,
+Net Procurement (P-1) ($ in Millions),,,,,,"3,422.514",,,,107.958,,,,112.974,,,104.412,,,-,,,104.412,,
+Plus CY Advance Procurement ($ in Millions),,,,,,227.547,,,,10.500,,,,-,,,-,,,-,,,-,,
+Total Obligation Authority ($ in Millions),,,,,,"3,650.061",,,,118.458,,,,112.974,,,104.412,,,-,,,104.412,,
+(The following Resource Summary rows are for informational purposes only. The corresponding budget requests are documented elsewhere.),,,,,,,,,,,,,,,,,,,,,,,,,
+Initial Spares ($ in Millions),,,,,,-,,,,-,,,,-,,,-,,,-,,,-,,
+Gross/Weapon System Unit Cost ($ in Thousands),,,,,,20.844,,,,87.608,,,,100.304,,,117.714,,,-,,,117.714,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Note: Subtotals or Totals in this Exhibit P-5 may not be exact or sum exactly due to rounding.,,,,,,,,,,,,,,,,,,,,,,,,,
+Cost Elements,Prior Years,,,FY 2020,,,,,FY 2021,,,,,FY 2022 Base,,,,FY 2022 OCO,,,,FY 2022 Total,,,
+,Unit Cost ($ K),Qty (Each),Total Cost ($ M),Unit Cost ($ K),Qty (Each),,Total Cost ($ M),,Unit Cost ($ K),,Qty (Each),Total Cost ($ M),,Unit Cost ($ K),Qty (Each),Total Cost ($ M),,Unit Cost ($ K),Qty (Each),,Total Cost ($ M),Unit Cost ($ K),,Qty (Each),Total Cost ($ M)
+Flyaway Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Recurring Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Missile Contract(†),20.333,"173,632","3,530.459",77.317,"1,460",,112.883,,90.480,,"1,231",111.381,,95.682,887,84.870,,-,-,,-,95.682,,887,84.870
+Engineering Services,-,-,-,-,-,,-,,-,,-,-,,-,-,3.432,,-,-,,-,-,,-,3.432
+Acceptance Testing,-,-,-,-,-,,-,,-,,-,-,,-,-,3.114,,-,-,,-,-,,-,3.114
+Subtotal: Recurring Cost,-,-,"3,530.459",-,-,,112.883,,-,,-,111.381,,-,-,91.416,,-,-,,-,-,,-,91.416
+Non Recurring Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Counter Active Protection System (CAPS) Obsolescence,-,-,-,-,-,,-,,-,,-,2.375,,-,-,6.076,,-,-,,-,-,,-,6.076
+Subtotal: Non Recurring Cost,-,-,-,-,-,,-,,-,,-,2.375,,-,-,6.076,,-,-,,-,-,,-,6.076
+Subtotal: Flyaway Cost,-,-,"3,530.459",-,-,,112.883,,-,,-,113.756,,-,-,97.492,,-,-,,-,-,,-,97.492
+Support - Acceptance Testing Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Acceptance Test,-,-,17.491,-,-,,4.650,,-,,-,-,,-,-,-,,-,-,,-,-,,-,-
+Subtotal: Support - Acceptance Testing Cost,-,-,17.491,-,-,,4.650,,-,,-,-,,-,-,-,,-,-,,-,-,,-,-
+Support - Production Engineering Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Production Engineering,-,-,-,-,-,,-,,-,,-,-,,-,-,4.875,,-,-,,-,-,,-,4.875
+Subtotal: Support - Production Engineering Cost,-,-,-,-,-,,-,,-,,-,-,,-,-,4.875,,-,-,,-,-,,-,4.875
+Support - Program Management Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Government Management,-,-,53.040,-,-,,7.595,,-,,-,6.224,,-,-,2.045,,-,-,,-,-,,-,2.045
+,,,,,,,,,,,,,,,,,,,,,,,,,

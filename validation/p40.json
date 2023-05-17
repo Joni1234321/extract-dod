@@ -1,0 +1,46 @@
+schema_version
+file_name
+file_date
+generation_date
+page
+item_name
+item_number
+
+resource_summary []
+    quantity:[
+        { year, value }
+        { year, value }
+        { year, value }
+        { year, value }
+    ], 
+    cost:[
+        { year, value }
+        { year, value }
+        { year, value }
+        { year, value }
+    ], 
+    prequantity:[
+        { year, value }
+        { year, value }
+        { year, value }
+        { year, value }
+    ], 
+
+
+
+resource_summary []
+    {
+        year  {
+            quant
+            count
+            prequant
+    
+        }
+        year  {
+            quant
+            count
+            prequant
+    
+        }
+    }
+

@@ -1,0 +1,31 @@
+"Exhibit P-5, Cost Analysis: PB 2022 Army",,,,,,,,,,,,,,,,,,,Date: May 2021,,,,,,
+Appropriation / Budget Activity / Budget Sub Activity: 2032A / 05 / 10,,,,,,,,P-1 Line Item Number / Title: 1242C93000 / Air Defense Targets,,,,,,,,,,,Item Number / Title [DODIC]: C93000 / Air Defense Targets,,,,,,
+"ID Code (A=Service Ready, B=Not Service Ready) :",,,,,,,,,,,,,MDAP/MAIS Code:,,,,,,,,,,,,
+Resource Summary,,,,,,Prior Years,,,,FY 2020,,,,FY 2021,,,FY 2022 Base,,,FY 2022 OCO,,,FY 2022 Total,,
+Procurement Quantity (Units in Each),,,,,,788,,,,500,,,,538,,,666,,,-,,,666,,
+Gross/Weapon System Cost ($ in Millions),,,,,,447.499,,,,10.593,,,,8.978,,,10.618,,,-,,,10.618,,
+Less PY Advance Procurement ($ in Millions),,,,,,-,,,,-,,,,-,,,-,,,-,,,-,,
+Net Procurement (P-1) ($ in Millions),,,,,,447.499,,,,10.593,,,,8.978,,,10.618,,,-,,,10.618,,
+Plus CY Advance Procurement ($ in Millions),,,,,,-,,,,-,,,,-,,,-,,,-,,,-,,
+Total Obligation Authority ($ in Millions),,,,,,447.499,,,,10.593,,,,8.978,,,10.618,,,-,,,10.618,,
+(The following Resource Summary rows are for informational purposes only. The corresponding budget requests are documented elsewhere.),,,,,,,,,,,,,,,,,,,,,,,,,
+Initial Spares ($ in Millions),,,,,,-,,,,-,,,,-,,,-,,,-,,,-,,
+Gross/Weapon System Unit Cost ($ in Thousands),,,,,,567.892,,,,21.186,,,,16.688,,,15.943,,,-,,,15.943,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Note: Subtotals or Totals in this Exhibit P-5 may not be exact or sum exactly due to rounding.,,,,,,,,,,,,,,,,,,,,,,,,,
+Cost Elements,Prior Years,,,FY 2020,,,,,FY 2021,,,,,FY 2022 Base,,,,FY 2022 OCO,,,,FY 2022 Total,,,
+,Unit Cost ($ K),Qty (Each),Total Cost ($ M),Unit Cost ($ K),Qty (Each),,Total Cost ($ M),,Unit Cost ($ K),,Qty (Each),Total Cost ($ M),,Unit Cost ($ K),Qty (Each),Total Cost ($ M),,Unit Cost ($ K),Qty (Each),,Total Cost ($ M),Unit Cost ($ K),,Qty (Each),Total Cost ($ M)
+Flyaway Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Recurring Cost,,,,,,,,,,,,,,,,,,,,,,,,,
+Remotely Piloted Vehicle Target (RPVT)(†),369.992,"1,183",437.701,6.962,394,,2.743,,7.185,,538,3.866,,6.683,666,4.451,,-,-,,-,6.683,,666,4.451
+Infrared Kit Payload(†),0.292,"1,182",0.345,0.332,394,,0.131,,0.341,,538,0.183,,0.335,666,0.223,,-,-,,-,0.335,,666,0.223
+Launcher(†),28.273,11,0.311,31.000,5,,0.155,,32.000,,1,0.032,,33.200,5,0.166,,-,-,,-,33.200,,5,0.166
+Manual Navigation GCS(†),11.143,28,0.312,12.214,14,,0.171,,12.600,,5,0.063,,12.000,5,0.060,,-,-,,-,12.000,,5,0.060
+BVR Navigation GCS(†),28.875,8,0.231,31.750,4,,0.127,,32.700,,10,0.327,,33.500,10,0.335,,-,-,,-,33.500,,10,0.335
+BVR Payload(†),12.544,68,0.853,14.100,20,,0.282,,14.519,,27,0.392,,15.800,65,1.027,,-,-,,-,15.800,,65,1.027
+Acoustic Scoring Payload(†),13.513,78,1.054,13.786,28,,0.386,,14.200,,50,0.710,,15.000,55,0.825,,-,-,,-,15.000,,55,0.825
+Acoustic Scoring GCS(†),45.529,17,0.774,49.222,9,,0.443,,51.000,,2,0.102,,50.000,2,0.100,,-,-,,-,50.000,,2,0.100
+Radar Scoring Payload(†),17.825,40,0.713,19.300,20,,0.386,,20.000,,40,0.800,,22.400,55,1.232,,-,-,,-,22.400,,55,1.232
+Radar Scoring GCS(†),17.000,1,0.017,18.000,1,,0.018,,18.500,,2,0.037,,18.000,2,0.036,,-,-,,-,18.000,,2,0.036
+RPVT Lighting Kit Payload(†),0.299,87,0.026,0.323,31,,0.010,,0.333,,45,0.015,,0.260,100,0.026,,-,-,,-,0.260,,100,0.026
+Program Management Support,"1,607.333",3,4.822,"1,815.000",1,,1.815,,"2,132.000",,1,2.132,,"1,792.000",1,1.792,,-,-,,-,"1,792.000",,1,1.792
